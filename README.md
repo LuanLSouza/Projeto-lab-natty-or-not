@@ -20,23 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O que esta por vir?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto simples utilizando algumas tecnologias, com o intuito de fazer a IA dizer o que esta por vir nos proximos anos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para geração de texto foi utilizado  ChatGPT.
+Para geração do audio foi utilizado o ElevenLabs.
+E para a geração do video o HeyGen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fora simples utilizei um prompt basico no chat GPT, e colei no ai Voice Generator, modifiquei algumas opções na geração de voz como,
+A estabilidade para tornar a voz mais expressiva. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Para o primeiro teste foi muito satisfatório, tentei utilizar o Vidnoz Ai para a criação do video porem ele é menos assertivo que o HeyGen.
+Link do video: https://app.heygen.com/share/02afa5faa23c439490c82966b6a32bf7
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
